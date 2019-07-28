@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("我是主分支第二次提交");
         System.out.println("我是你的同事，我这是第一次提交");
         System.out.println("我是主分支，我第一次修改");
+        System.out.println("我是老板创建的dev1分支");
     }
 }
